@@ -1,4 +1,4 @@
-# Ricardo Guerrero 
+# Ricardo Guerrero 👨🏼‍💻
 
 I'm Ricardo from Costa Rica, and I like to be in constant learning on Design and Development. I really enjoy learning languages and frameworks like UIKit and AppKit, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
@@ -15,8 +15,6 @@ I'm Ricardo from Costa Rica, and I like to be in constant learning on Design and
 - 🔭 I’m currently working on my own project - Due Lite. 
 - 🌱 I’m currently learning more in depth iOS Deveploment.
 - 💬 I’m currently studying for my Computer Engineering degree.
-
-<img src = "https://github.com/RicarJG02/RicarJG02/blob/main/Apple-AppStore.gif" width="250">
 
 ## Contact
 
