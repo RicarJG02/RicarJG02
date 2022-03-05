@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/RicarJG02/RicarJG02/blob/main/MyBanner.png)
+![Design and Development](https://github.com/RicarJG02/RicarJG02/blob/main/GitHub%20Banner.png)
 
 # Ricardo Guerrero 👨🏼‍💻
 
