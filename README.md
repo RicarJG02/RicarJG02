@@ -12,7 +12,7 @@ I'm Ricardo from Costa Rica, and I like to be in constant learning on Design and
 
 ## Examples of Work
 
-## As Today
+## As of Today
 
 - 🔭 I’m currently working on my own project - Due Lite. 
 - 🌱 I’m currently learning more in depth iOS Deveploment.
